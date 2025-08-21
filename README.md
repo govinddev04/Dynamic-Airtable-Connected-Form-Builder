@@ -1,5 +1,4 @@
 # Dynamic-Airtable-Connected-Form-Builder
- 
 A full-stack application that allows users to log in with Airtable, create custom forms from Airtable fields, and save responses directly back to Airtable.
 
 ## Project Structure
